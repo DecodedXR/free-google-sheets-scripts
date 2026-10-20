@@ -1,9 +1,12 @@
 ---
 title: Free Google Sheets scripts
 description: Free, open-source Apps Script tools for Google Sheets, Gmail, Docs, Forms and Calendar. Paste one file, no add-on.
+image: https://decodedxr.github.io/free-google-sheets-scripts/assets/cover.png
 ---
 {% raw %}
 # Free Google Sheets scripts
+
+![Free Google Sheets scripts](assets/cover.png)
 
 Free, open-source Apps Script tools for Google Sheets, Gmail, Docs, Forms and Calendar. Each one is a **single file you paste into Extensions → Apps Script**: no add-on to install, no subscription, and your data stays in your Google account. All MIT licensed.
 

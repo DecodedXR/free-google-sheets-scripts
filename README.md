@@ -20,6 +20,8 @@ Free, open-source Apps Script tools for Google Sheets, Gmail, Docs, Forms and Ca
 | [Form Auto-Reply](https://github.com/DecodedXR/form-auto-reply) | Your own personalized email to every Google Form respondent, written as a Gmail draft. | [Custom confirmation email](https://decodedxr.github.io/form-auto-reply/google-forms-custom-confirmation-email.html) |
 | [Form Prefill Links](https://github.com/DecodedXR/form-prefill-links) | A pre-filled Google Form link for every row, matched by question title. | [Prefill a form from a sheet](https://decodedxr.github.io/form-prefill-links/prefill-google-form-from-spreadsheet.html) |
 
+Hit a free-tier limit on an add-on? See [free alternatives to paid Google Sheets add-ons](https://decodedxr.github.io/free-google-sheets-scripts/free-alternatives-to-google-sheets-add-ons.html).
+
 ## How every script works
 
 1. Open your sheet → **Extensions → Apps Script**.

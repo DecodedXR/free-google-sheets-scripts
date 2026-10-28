@@ -34,6 +34,13 @@ Free, open-source Apps Script tools for Google Sheets, Gmail, Docs, Forms and Ca
 
 Hit a free-tier limit on an add-on? See [free alternatives to paid Google Sheets add-ons](free-alternatives-to-google-sheets-add-ons.html).
 
+## Need more than the free version?
+
+Two paid versions, each a one-time price with no subscription and running in your own Google account:
+
+- **[Mail Merge Pro](https://decodedpc.gumroad.com/l/tcfsse)** ($12): schedule a mail merge for later, then follow up with everyone who didn't reply, in the same thread. Compare: [vs GMass](https://decodedxr.github.io/sheets-mail-merge/gmass-alternative-google-sheets.html).
+- **[Gmail to Sheets Pro](https://decodedpc.gumroad.com/l/faaflm)** ($15): a different Gmail search per tab, attachments saved to Drive, imports every 5 minutes. Compare: [vs Parseur and Mailparser](https://decodedxr.github.io/gmail-to-sheets/email-parser-alternative-google-sheets.html).
+
 ## How every script works
 
 1. Open your sheet → **Extensions → Apps Script**.

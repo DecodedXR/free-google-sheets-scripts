@@ -49,6 +49,8 @@ Two paid versions, each a one-time price with no subscription and running in you
 
 The first run shows "Google hasn't verified this app", because it's your own unpublished script: **Advanced → Go to (your project name) → Allow**. Nothing is sent to any outside server.
 
+**None of these quite fit?** [Get a custom script written for your sheet ($49)](custom-google-sheets-script.html): describe the job, get a tested script within 3 days, or a full refund.
+
 ## They work together
 
 - Build per-person links with **Form Prefill Links**, then send them with **Mail Merge** (`{{Prefilled Link}}`).
